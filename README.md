@@ -30,4 +30,5 @@ liuyushuang@duia.com, liuyushuang@duia.com
 LYSImageBrowseView is available under the MIT license. See the LICENSE file for more info.
 =======
 Realize image zooming browsing
+实现图片的缩放浏览功能。^-^简单的图片浏览器。
 >>>>>>> 0e84834b9f6966a7561b305b397841f6fc7e5de0
