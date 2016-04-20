@@ -1,4 +1,5 @@
 # LYSImageBrowseView
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/liuyushuang@duia.com/LYSImageBrowseView.svg?style=flat)](https://travis-ci.org/liuyushuang@duia.com/LYSImageBrowseView)
 [![Version](https://img.shields.io/cocoapods/v/LYSImageBrowseView.svg?style=flat)](http://cocoapods.org/pods/LYSImageBrowseView)
@@ -27,3 +28,6 @@ liuyushuang@duia.com, liuyushuang@duia.com
 ## License
 
 LYSImageBrowseView is available under the MIT license. See the LICENSE file for more info.
+=======
+Realize image zooming browsing
+>>>>>>> 0e84834b9f6966a7561b305b397841f6fc7e5de0
