@@ -1,0 +1,14 @@
+PODS:
+  - LYSImageBrowseView (0.1.0)
+
+DEPENDENCIES:
+  - LYSImageBrowseView (from `../`)
+
+EXTERNAL SOURCES:
+  LYSImageBrowseView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LYSImageBrowseView: 1a62fbb1532e14740755e992c29eddb4f56e70d4
+
+COCOAPODS: 0.39.0

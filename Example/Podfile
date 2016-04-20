@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LYSImageBrowseView_Example', :exclusive => true do
+  pod 'LYSImageBrowseView', :path => '../'
+end
+
+target 'LYSImageBrowseView_Tests', :exclusive => true do
+  pod 'LYSImageBrowseView', :path => '../'
+
+  
+end

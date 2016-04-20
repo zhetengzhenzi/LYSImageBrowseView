@@ -1,0 +1,6 @@
+framework module Pods_LYSImageBrowseView_Example {
+  umbrella header "Pods-LYSImageBrowseView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

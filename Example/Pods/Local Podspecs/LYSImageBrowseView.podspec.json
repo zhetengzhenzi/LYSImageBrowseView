@@ -1,0 +1,24 @@
+{
+  "name": "LYSImageBrowseView",
+  "version": "0.1.0",
+  "summary": "A short description of LYSImageBrowseView.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/LYSImageBrowseView",
+  "license": "MIT",
+  "authors": {
+    "liuyushuang@duia.com": "liuyushuang@duia.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/LYSImageBrowseView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LYSImageBrowseView/Classes/**/*",
+  "resource_bundles": {
+    "LYSImageBrowseView": [
+      "LYSImageBrowseView/Assets/*.png"
+    ]
+  }
+}

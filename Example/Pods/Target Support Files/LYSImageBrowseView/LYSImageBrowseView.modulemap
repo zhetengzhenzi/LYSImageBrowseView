@@ -1,0 +1,6 @@
+framework module LYSImageBrowseView {
+  umbrella header "LYSImageBrowseView-umbrella.h"
+
+  export *
+  module * { export * }
+}
