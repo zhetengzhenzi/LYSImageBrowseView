@@ -11,7 +11,7 @@
  
  *******BrowseImageFramework 使用说明********
  
- 1、导入：#import <BrowseImageFramework/BrowseImageFramework.h>
+ 1、导入：#import "BrowseImageFramework.h"
  
  2、根据需要创建ToBrowseImageView（一个/多个），并实现其代理方法：
  
