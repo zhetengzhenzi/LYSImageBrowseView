@@ -20,6 +20,20 @@
 		6003F5B2195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
 		6003F5BA195388D20070C39A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5B8195388D20070C39A /* InfoPlist.strings */; };
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
+		7E6E27531CC75EF600D3A67B /* BrowseTopScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E6E274C1CC75EF600D3A67B /* BrowseTopScrollView.m */; };
+		7E6E27541CC75EF600D3A67B /* BrowseView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E6E274E1CC75EF600D3A67B /* BrowseView.m */; };
+		7E6E27551CC75EF600D3A67B /* ToBrowseImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E6E27511CC75EF600D3A67B /* ToBrowseImageView.m */; };
+		7E6E27621CC7613900D3A67B /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E6E27571CC7613900D3A67B /* 1.jpg */; };
+		7E6E27631CC7613900D3A67B /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E6E27581CC7613900D3A67B /* 10.jpg */; };
+		7E6E27641CC7613900D3A67B /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E6E27591CC7613900D3A67B /* 11.jpg */; };
+		7E6E27651CC7613900D3A67B /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E6E275A1CC7613900D3A67B /* 2.jpg */; };
+		7E6E27661CC7613900D3A67B /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E6E275B1CC7613900D3A67B /* 3.jpg */; };
+		7E6E27671CC7613900D3A67B /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E6E275C1CC7613900D3A67B /* 4.jpg */; };
+		7E6E27681CC7613900D3A67B /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E6E275D1CC7613900D3A67B /* 5.jpg */; };
+		7E6E27691CC7613900D3A67B /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E6E275E1CC7613900D3A67B /* 6.jpg */; };
+		7E6E276A1CC7613900D3A67B /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E6E275F1CC7613900D3A67B /* 7.jpg */; };
+		7E6E276B1CC7613900D3A67B /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E6E27601CC7613900D3A67B /* 8.jpg */; };
+		7E6E276C1CC7613900D3A67B /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E6E27611CC7613900D3A67B /* 9.jpg */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 		A159A4B3E14261CA71E474D0 /* Pods_LYSImageBrowseView_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1E259ED5F7180D9EE409A509 /* Pods_LYSImageBrowseView_Tests.framework */; };
 		AB9045847B55F550455FDF6D /* Pods_LYSImageBrowseView_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 21467930B9881EC04FFA2318 /* Pods_LYSImageBrowseView_Example.framework */; };
@@ -61,6 +75,25 @@
 		64420A8F4858C42DE9738897 /* LYSImageBrowseView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LYSImageBrowseView.podspec; path = ../LYSImageBrowseView.podspec; sourceTree = "<group>"; };
 		6D07320D30468E7E7FF1D6F0 /* Pods-LYSImageBrowseView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LYSImageBrowseView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LYSImageBrowseView_Tests/Pods-LYSImageBrowseView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		7037C9E6140EC5CEC4FED170 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		7E6E274A1CC75EF600D3A67B /* BrowseImageFramework.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BrowseImageFramework.h; sourceTree = "<group>"; };
+		7E6E274B1CC75EF600D3A67B /* BrowseTopScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BrowseTopScrollView.h; sourceTree = "<group>"; };
+		7E6E274C1CC75EF600D3A67B /* BrowseTopScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BrowseTopScrollView.m; sourceTree = "<group>"; };
+		7E6E274D1CC75EF600D3A67B /* BrowseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BrowseView.h; sourceTree = "<group>"; };
+		7E6E274E1CC75EF600D3A67B /* BrowseView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BrowseView.m; sourceTree = "<group>"; };
+		7E6E274F1CC75EF600D3A67B /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
+		7E6E27501CC75EF600D3A67B /* ToBrowseImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ToBrowseImageView.h; sourceTree = "<group>"; };
+		7E6E27511CC75EF600D3A67B /* ToBrowseImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ToBrowseImageView.m; sourceTree = "<group>"; };
+		7E6E27571CC7613900D3A67B /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		7E6E27581CC7613900D3A67B /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		7E6E27591CC7613900D3A67B /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpg; sourceTree = "<group>"; };
+		7E6E275A1CC7613900D3A67B /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		7E6E275B1CC7613900D3A67B /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		7E6E275C1CC7613900D3A67B /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		7E6E275D1CC7613900D3A67B /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		7E6E275E1CC7613900D3A67B /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		7E6E275F1CC7613900D3A67B /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		7E6E27601CC7613900D3A67B /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		7E6E27611CC7613900D3A67B /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		A77664E52F682A5EF7A1164C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		AA5EC034F6624ABD90E29EC9 /* Pods-LYSImageBrowseView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LYSImageBrowseView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LYSImageBrowseView_Tests/Pods-LYSImageBrowseView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -141,6 +174,8 @@
 		6003F593195388D20070C39A /* Example for LYSImageBrowseView */ = {
 			isa = PBXGroup;
 			children = (
+				7E6E27561CC7613900D3A67B /* DemoImages */,
+				7E6E27481CC75EF600D3A67B /* Classes */,
 				6003F59C195388D20070C39A /* LYSAppDelegate.h */,
 				6003F59D195388D20070C39A /* LYSAppDelegate.m */,
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
@@ -191,6 +226,39 @@
 				A77664E52F682A5EF7A1164C /* LICENSE */,
 			);
 			name = "Podspec Metadata";
+			sourceTree = "<group>";
+		};
+		7E6E27481CC75EF600D3A67B /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				7E6E274A1CC75EF600D3A67B /* BrowseImageFramework.h */,
+				7E6E274B1CC75EF600D3A67B /* BrowseTopScrollView.h */,
+				7E6E274C1CC75EF600D3A67B /* BrowseTopScrollView.m */,
+				7E6E274D1CC75EF600D3A67B /* BrowseView.h */,
+				7E6E274E1CC75EF600D3A67B /* BrowseView.m */,
+				7E6E274F1CC75EF600D3A67B /* Header.h */,
+				7E6E27501CC75EF600D3A67B /* ToBrowseImageView.h */,
+				7E6E27511CC75EF600D3A67B /* ToBrowseImageView.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		7E6E27561CC7613900D3A67B /* DemoImages */ = {
+			isa = PBXGroup;
+			children = (
+				7E6E27571CC7613900D3A67B /* 1.jpg */,
+				7E6E27581CC7613900D3A67B /* 10.jpg */,
+				7E6E27591CC7613900D3A67B /* 11.jpg */,
+				7E6E275A1CC7613900D3A67B /* 2.jpg */,
+				7E6E275B1CC7613900D3A67B /* 3.jpg */,
+				7E6E275C1CC7613900D3A67B /* 4.jpg */,
+				7E6E275D1CC7613900D3A67B /* 5.jpg */,
+				7E6E275E1CC7613900D3A67B /* 6.jpg */,
+				7E6E275F1CC7613900D3A67B /* 7.jpg */,
+				7E6E27601CC7613900D3A67B /* 8.jpg */,
+				7E6E27611CC7613900D3A67B /* 9.jpg */,
+			);
+			path = DemoImages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -276,9 +344,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E6E27691CC7613900D3A67B /* 6.jpg in Resources */,
+				7E6E27631CC7613900D3A67B /* 10.jpg in Resources */,
+				7E6E27681CC7613900D3A67B /* 5.jpg in Resources */,
+				7E6E276A1CC7613900D3A67B /* 7.jpg in Resources */,
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
+				7E6E276B1CC7613900D3A67B /* 8.jpg in Resources */,
+				7E6E27651CC7613900D3A67B /* 2.jpg in Resources */,
+				7E6E27621CC7613900D3A67B /* 1.jpg in Resources */,
+				7E6E27641CC7613900D3A67B /* 11.jpg in Resources */,
+				7E6E276C1CC7613900D3A67B /* 9.jpg in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
+				7E6E27671CC7613900D3A67B /* 4.jpg in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
+				7E6E27661CC7613900D3A67B /* 3.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -393,6 +472,9 @@
 				6003F59E195388D20070C39A /* LYSAppDelegate.m in Sources */,
 				6003F5A7195388D20070C39A /* LYSViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
+				7E6E27531CC75EF600D3A67B /* BrowseTopScrollView.m in Sources */,
+				7E6E27541CC75EF600D3A67B /* BrowseView.m in Sources */,
+				7E6E27551CC75EF600D3A67B /* ToBrowseImageView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -467,7 +549,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -500,7 +582,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -516,6 +598,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LYSImageBrowseView/LYSImageBrowseView-Prefix.pch";
 				INFOPLIST_FILE = "LYSImageBrowseView/LYSImageBrowseView-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -532,6 +615,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LYSImageBrowseView/LYSImageBrowseView-Prefix.pch";
 				INFOPLIST_FILE = "LYSImageBrowseView/LYSImageBrowseView-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
